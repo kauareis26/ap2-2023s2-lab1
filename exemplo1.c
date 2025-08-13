@@ -7,11 +7,7 @@
  int main()  {
  	// imprime algumas mensagens na tela
  	printf("Mackenzie - FCI\n");
- 	printf("Algoritimos e ");
- 	printf("Prog. II\n");
- 	printf("Turma 02.P");
- 	// pausa abtes de terminar o programa 
- 	system("pause");
+ 	printf("Ciencia da computação\n ");
+ 	printf("Algoritimos e programação II\n");
  	return 0 ;
- 	
  }
